@@ -1,0 +1,4 @@
+In Python you can do loops
+In Python you can do conditions
+In Python you can do functions
+In Python you can do class
